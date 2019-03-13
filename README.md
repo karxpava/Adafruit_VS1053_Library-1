@@ -23,4 +23,7 @@ Spark Core
   
   The Core version also sets the SPI clock to DIV8 (2.25Mhz)
 
-  
+ 
+Photon revisions 
+---------- 
+As needed
